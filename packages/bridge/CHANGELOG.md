@@ -1,5 +1,11 @@
 # @telegram-apps/bridge
 
+## 1.4.1
+
+### Patch Changes
+
+- 5b7be69: Bots API V8: Full Screen
+
 ## 1.4.0
 
 ### Minor Changes

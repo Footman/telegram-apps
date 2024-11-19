@@ -1,5 +1,18 @@
 # @telegram-apps/sdk-react
 
+## 2.0.14
+
+### Patch Changes
+
+- 11b8478: Bump repository libraries
+
+## 2.0.13
+
+### Patch Changes
+
+- Updated dependencies [5b7be69]
+  - @telegram-apps/sdk@2.6.3
+
 ## 2.0.12
 
 ### Patch Changes

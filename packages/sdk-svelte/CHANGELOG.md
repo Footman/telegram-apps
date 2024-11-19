@@ -1,5 +1,18 @@
 # @telegram-apps/sdk-svelte
 
+## 1.0.6
+
+### Patch Changes
+
+- 11b8478: Bump repository libraries
+
+## 1.0.5
+
+### Patch Changes
+
+- Updated dependencies [5b7be69]
+  - @telegram-apps/sdk@2.6.3
+
 ## 1.0.4
 
 ### Patch Changes
